@@ -22,5 +22,5 @@ The results should give a grade of 6/9, passing the 1e9 test (4 thresholds out o
 ## Grading 
 
 To obtain the grading, you can run : 
-```pytest src/grading.py``````
+```pytest src/grading.py```
 
